@@ -1,0 +1,29 @@
+.fondo-contact{
+    background-color: hsla(211, 27%, 45%, 0.7) ;
+    position: relative;
+    height: 680px;
+    width: 1200px;
+    padding: 150px;
+    text-align: center;
+    color: #405f80;
+}
+.titulo-prin{
+    z-index: 1;
+    
+}
+.message{
+    height: 230px;
+    width: 900px;
+    border-radius: 8px;
+    color: #405f80;
+}
+.segundo-titulo{
+    color: #405f80;
+}
+.boton{
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: #405f80;
+    color: white;
+}

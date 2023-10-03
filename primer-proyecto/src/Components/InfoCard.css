@@ -1,0 +1,45 @@
+.infoCard{
+    color:#2c425a ;
+    font-size: small;
+    width: 350px;
+    height: 10px;
+    position: absolute;
+    right: 1px;
+    top: 10px;
+    display:inline-block;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    
+
+    
+    
+}
+ button{
+    background-color:#6eccaf;
+    color: #2c425a;
+    
+   
+ }
+ p{
+    right: 150px;
+    color: white;
+ }
+
+
+
+
+.alert{
+   background-color:#6ECCAF;
+   color:  #344d67;
+}
+
+
+.cards-section{
+   justify-content: center;
+}  
+
+h4{
+   color: white;
+}

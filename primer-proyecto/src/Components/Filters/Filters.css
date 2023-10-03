@@ -1,0 +1,18 @@
+.form-check-input{
+ background-color: #344d67;
+ border-radius: 8px;
+ align-items: flex-start;
+}
+.form-check-label{
+    background-color: #344d67;
+    color: #6eccaf;
+    align-items: center;
+}
+.form-check{
+    display: flex;
+    margin: 70PX;
+    width: 190px;
+    background-color: #344d67;
+    border-radius: 8px
+    
+}

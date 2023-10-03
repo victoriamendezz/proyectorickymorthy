@@ -1,0 +1,10 @@
+.titulo-filtros{
+    display: flex;
+    text-align: end;
+    height: 0px;
+    font-family: Raleway,sans-serif;
+    color:#344d67;
+}
+button{
+    height: 0px;
+}

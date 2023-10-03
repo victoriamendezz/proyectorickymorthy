@@ -1,0 +1,92 @@
+.csshome {
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    opacity: 0.9;
+    background-position: center;
+    position: relative;
+    top: 200px;
+    height: 600px;
+    left: 650px;
+    text-align: center;
+    width: 570px;
+    padding: 70px;
+    width: 500PX;
+    
+    }
+    
+     
+    .h1{ 
+        color: #344d67;
+        text-align: center;
+        font-family: 'Raleway';
+        font-size: 40px;
+        font-weight: 1000;
+        height: 120px;
+        display: inline-block;
+    }
+    
+    .h2 {
+    color: #344d67 ;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+    
+    }
+    
+    .p {
+    color: #344d67;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    width: 500px;
+    position: relative;
+    right: 70px;
+    
+    }
+     .h3 {
+    color: #344d67;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+     }
+    
+     .section {
+    background-color: #344d67;
+    font-family: 'Raleway', sans-serif;
+    color: #b1f0dc;
+    position: relative;
+    left: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 10%;
+    margin: 10px;
+    text-align: center;
+    height: 80px;
+    width: 100px;
+    opacity: 1;
+    right: 20px;
+    
+     }
+     .button{
+        background-color: #344d67;
+        border-radius: 20px;
+        color: #b1f0dc;
+        cursor: pointer;
+        margin-right: 10PX;
+     }
+     .button:hover {
+    background-color: #b1f0dc;
+    color: #020303;
+     }
+    .texto br{
+        content: "/00a0";
+        display: block;
+        margin-bottom: 20px;
+    }
+    
